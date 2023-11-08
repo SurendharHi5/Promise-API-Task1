@@ -1,3 +1,3 @@
 Vadivelu codes with images
 
-https://surendharhi5.github.io/Promise-Task1/
+Output URL : https://promise-api-task1-surendhar-cs-projects.vercel.app/
